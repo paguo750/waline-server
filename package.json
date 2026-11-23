@@ -4,6 +4,6 @@
   "private": true,
   "main": "index.js",
   "dependencies": {
-    "@waline/vercel": "latest"
+    "@waline/vercel": "1.40.0"
   }
 }
